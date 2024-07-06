@@ -1,0 +1,35 @@
+/* div { */
+    /* background-color: #d6589f; */
+     /* height: 50px; width: 50px; */
+     /* border-color: blue; */
+     /* border-width: 3px;  */
+     /* border-style: double; */
+/* } */
+body {
+    background-color: black;
+    position: absolute;
+    left: 300px;
+    top: 100px;
+}
+.flag1 {height: 400px;
+    width: 700px;
+}
+
+.a {height: 133px;
+    width: 700px;
+    background-color: #00A651;
+}
+.b {height: 133px;
+    width: 700px;
+    background-color: #FFF200;
+}
+.c {
+    height: 133px;
+    width: 700px;
+    background-color: #0066B3;
+}
+h1 {color: white;
+    float: right;
+
+}
+
